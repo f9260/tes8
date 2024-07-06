@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Gizlilik Politikası | VE3.Plus",
+  title: "Sıkça Sorulan Sorular | VE3.Plus",
   description: "",
   // other metadata
 };
@@ -46,6 +46,12 @@ Alt modlar kendi içinde kararlı çalışır ancak ortak özelliklerle uyumlu �
 
                       Bu özelliklerin kendi içinde de farklı alt modlar yer alabilir. Örneğin Fabrika {'>'} Eşitle.
                     <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
+                      Kullanım Sınırlamaları Var mı?
+                    </li>
+
+                    Evet. Bazı özelliklerde sınırlar bulunmaktadır. Bu sınırların temel sebebi, teknik geliştirme süreçleridir. Geliştirmeler sürdükçe sınırlar azaltılacaktır.
+                    Birkaç sınırlama örneği, " Sabit modda URL List özelliği kullanılamaz.", " Sabit modda yalnızca 1 adet video ile işlem yapılabilir. ", "Viral modda URL List aktifken Sesler ve Üretim Sayısı'nın 1'den fazla olduğu durumda şu an için en fazla 2 adet url girişi yapılabilir." vb. sınırlamalar bulunmaktadır. Bu tür sınırlamalara dair uyarılar sistemi kullanım esnasında karşınıza çıkabilir.
+                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
                     Hata ile karşılaşırsam ne yapmalıyım?
                     </li>
 
@@ -69,6 +75,17 @@ Alt modlar kendi içinde kararlı çalışır ancak ortak özelliklerle uyumlu �
                     Ürünün gerçek fiyatı nedir?
                     </li>
                     300 dolar + platform komisyonudur. 300 doların altındaki fiyatlar geçici bir süre içindir.
+                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
+                      Eğitim videolarının oluşturulduğu bilgisayarın sistem özellikleri nelerdir?
+                    </li>
+
+
+                    Kayıtlar <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span> ile oluşturulmuştur. 
+
+                    <span style={{ color: 'red' }}><b>İşlemci:</b></span> <span style={{ color: 'cyan' }}><b>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</b></span>, 
+                    <span style={{ color: 'red' }}><b> Ram:</b></span> <span style={{ color: 'cyan' }}><b>16 GB</b></span>,
+                    <span style={{ color: 'red' }}><b> GPU:</b></span><span style={{ color: 'cyan' }}><b> NVIDIA GeForce 1060 with Max-Q Design / Intel UHD Graphics 630</b></span> ve <span style={{ color: 'cyan' }}><b>256 GB</b></span> <span style={{ color: 'red' }}><b>SSD.</b></span> 
+                   
                                        
                   </ul>
                   
