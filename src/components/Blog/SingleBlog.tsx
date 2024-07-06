@@ -7,15 +7,9 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
   return (
     <>
       <div className="group relative overflow-hidden rounded-lg bg-white shadow-one duration-300 hover:shadow-two dark:bg-dark dark:hover:shadow-gray-dark">
-        <Link
-          href=""
-          className="relative block aspect-[37/22] w-full"
-        >
-          <span className="">
-            
-          </span>
-          <Image src={image} alt="image" fill />
-        </Link>
+        <video autoPlay muted loop>
+          <source src="https://forum.ve3.plus/assets/files/2024-04-28/docs-turkce/introduction.mp4" type="video/mp4" />
+        </video>
         <div className="">
           <h3>
             <Link
