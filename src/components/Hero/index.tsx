@@ -21,8 +21,8 @@
                   </p>
                   <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                     <Link
-                      href="https://www.fiverr.com/freusty/do-bot-that-produces-reels-shorts-tiktok"
-                      className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                      href="#"
+                      className="rounded-sm bg-green-500 px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
                     >
                       Satın Al
                     </Link>
