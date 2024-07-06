@@ -65,11 +65,11 @@ const BlogDetailsPage = () => {
 
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      Destek konusu Forum üzerinde Premium Support alanından gerçekleştirilir. Bu alanı yalnızca lisans sahibi müşterilerimiz kullanabilir.
+                      Destek konusu Forum üzerinde <Link href="https://forum.ve3.plus/d/14-premium-ve-avantajlari" target="_blank"><span style={{ color: 'yellow' }}> <b>Premium Support</b></span></Link> alanından gerçekleştirilir. Bu alanı yalnızca lisans sahibi müşterilerimiz kullanabilir.
 
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                    <Link href="https://ve3.plus/tr/rehber/" target="_blank"><span style={{ color: 'cyan' }}>VE3.Plus/tr/rehber</span></Link> adresi VE3.Plus'ın kullanımına dair içerikler bulundurur ve bu içerikler önceden haber verilmeksizin değiştirilebilir veya kaldırılabilir.
+                    <Link href="https://rehber.ve3.plus/" target="_blank"><span style={{ color: 'cyan' }}>VE3.Plus/tr/rehber</span></Link> adresi VE3.Plus'ın kullanımına dair içerikler bulundurur ve bu içerikler önceden haber verilmeksizin değiştirilebilir veya kaldırılabilir.
 
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
