@@ -51,18 +51,19 @@ const AboutSectionOne = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="relative mx-auto aspect-[9/16] max-w-[5000px] max-h-[700px] lg:mr-0">
-                <Image
-                  src="/images/about/sad.gif"
-                  alt="about-image"
-                  fill
+                <video
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
-                />
-                <Image
-                  src="/images/about/fbs.gif"
-                  alt="about-image"
-                  fill
+                  autoPlay muted loop>
+                  <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-3.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
+
+                <video
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
-                />
+                  autoPlay muted loop>
+                  <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-1.mp4" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
               </div>
             </div>
           </div>
