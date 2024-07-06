@@ -68,6 +68,10 @@ Alt modlar kendi içinde kararlı çalışır ancak ortak özelliklerle uyumlu �
                     </li>
                     Aksi belirtilmedikçe 1 lisans 1 bilgisayarda kullanılabilir.
                     <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
+                    Lisans süresi ne kadar?
+                    </li>
+                    Lisans süresi 30 gündür. 30 günün sonunda kullanıma devam etmek için lisansınızı yenilemeniz gerekir.
+                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
                     Tek bilgisayarda çok sayıda uygulama çalıştırabilir miyim?
                     </li>
                     Hayır. Aynı anda birden fazla .exe çalıştırılamaz.
