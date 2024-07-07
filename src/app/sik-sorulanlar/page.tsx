@@ -84,7 +84,7 @@ Alt modlar kendi içinde kararlı çalışır ancak ortak özelliklerle uyumlu �
                     </li>
 
 
-                    Kayıtlar <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span> ile oluşturulmuştur. 
+                    Eğitimler <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span> ile oluşturulmuştur. 
 
                     <span style={{ color: 'red' }}><b>İşlemci:</b></span> <span style={{ color: 'cyan' }}><b>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</b></span>, 
                     <span style={{ color: 'red' }}><b> Ram:</b></span> <span style={{ color: 'cyan' }}><b>16 GB</b></span>,
