@@ -39,7 +39,8 @@ const AboutSectionTwo = () => {
                  🛑 Youtube Emrinde
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Web özelliğini kullanarak Youtube'daki tüm videolardan faydalanabilirsiniz. 
+                  URL ve URL List özelliğini kullanarak Youtube'ta yer alan videoları bilgisayarınıza indirmeye gerek duymadan doğrudan düzenleyebilirsiniz.
+                  Üstelik videonun süresi önemsiz. 5 saatlik bir videodan dahi dakikalar içinde arzu ettiğiniz içerikleri elde edebilirsiniz.
                 </p>
               </div>
               <div className="mb-1">
