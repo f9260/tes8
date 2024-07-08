@@ -53,14 +53,14 @@ const AboutSectionOne = () => {
               <div className="relative mx-auto aspect-[9/16] max-w-[5000px] max-h-[700px] lg:mr-0">
                 <video
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
-                  autoPlay muted loop>
+                  autoPlay muted loop controls>
                   <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-3.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
 
                 <video
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
-                  autoPlay muted loop>
+                  autoPlay muted loop controls>
                   <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-1.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
