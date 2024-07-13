@@ -19,25 +19,25 @@
                     
                     Ayarlarınızı yapın ve çalıştırın, gerisini ona bırakın.
                   </p>
-                  <div class="flex items-center justify-center">
-                    <div class="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
+                  <div className="flex items-center justify-center">
+                    <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
                       <Link
                         href="https://rehber.ve3.plus"
-                        class="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
+                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
                       >
                         Rehber
                       </Link>
                       <Link
                         href="https://shopier.com/23747500"
                         target="_blank"
-                        class="rounded-sm bg-green-500 px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
+                        className="rounded-sm bg-green-500 px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
                       >
                         Satın Al
                       </Link>
                       <Link
                         href="https://forum.ve3.plus/d/5-demo-talebi"
                         target="_blank"
-                        class="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
+                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
                       >
                         Demo
                       </Link>
