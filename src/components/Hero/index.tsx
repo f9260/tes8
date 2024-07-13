@@ -19,7 +19,7 @@
                     
                     Ayarlarınızı yapın ve çalıştırın, gerisini ona bırakın.
                   </p>
-                                    <div class="flex items-center justify-center">
+                  <div class="flex items-center justify-center">
                     <div class="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
                       <Link
                         href="https://rehber.ve3.plus"
