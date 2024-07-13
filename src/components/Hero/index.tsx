@@ -23,6 +23,7 @@
                     <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
                       <Link
                         href="https://rehber.ve3.plus"
+                        target="_blank"
                         className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
                       >
                         Rehber
