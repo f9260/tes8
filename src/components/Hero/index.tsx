@@ -31,7 +31,7 @@
                       <Link
                         href="https://shopier.com/23747500"
                         target="_blank"
-                        className="rounded-sm bg-green-500 px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
+                        className="rounded-sm bg-[#00b22d] px-5 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500"
                       >
                         Satın Al
                       </Link>
