@@ -16,7 +16,7 @@ const menuData: Menu[] = [
   {
     id: 3,
     title: "Forum",
-    path: "https://forum.ve3.plus",
+    path: "https://forum.ve3.plus/?language=tr",
     newTab: true,
   },
   {
