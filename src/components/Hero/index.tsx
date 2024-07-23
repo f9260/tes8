@@ -15,9 +15,9 @@
                     VE3.Plus - Sınırsız Video Düzenleme Otomasyonu
                   </h1>
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                    Sınırsız sayıda kısa ve uzun videolar oluşturma otomasyonu.
+                    Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda video üretin, siz de sosyal medyadan para kazanın.
                     
-                    Ayarlarınızı yapın ve çalıştırın, gerisini ona bırakın.
+                    Saniyeler sürecek birkaç basit ayar yapın ve çalıştırın, gerisini ona bırakın.
                   </p>
                   <div className="flex items-center justify-center">
                     <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
