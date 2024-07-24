@@ -15,7 +15,7 @@
                     VE3.Plus - Sınırsız Video Düzenleme Otomasyonu
                   </h1>
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                    Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda video üreterek sosyal medyadan para kazanın.
+                    Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda video üretip, sosyal medyadan para kazanın.
                     
                     Saniyeler süren birkaç basit ayar yapıp çalıştırın, gerisini ona bırakın.
                   </p>
