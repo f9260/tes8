@@ -16,10 +16,22 @@ const Hero = () => {
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   VE3.Plus - Sınırsız Video Düzenleme Otomasyonu
                 </h1>
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda <Link href="https://forum.ve3.plus/d/99-benzersiz-icerik-nedir-ne-onemi-var" target="_blank"><span style={{ color: 'cyan' }}>benzersiz</span></Link> video oluşturun ve sosyal medyadan para kazanmaya başlayın. 
-                  Saniyeler süren birkaç basit ayar yapın, çalıştırın ve gerisini otomasyona bırakın.
-                </p>
+                  <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                    Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda{' '}
+                    <Link href="https://forum.ve3.plus/d/99-benzersiz-icerik-nedir-ne-onemi-var" target="_blank">
+                      <span
+                        style={{
+                          background: 'linear-gradient(45deg, red, orange, yellow, blue)',
+                          WebkitBackgroundClip: 'text',
+                          WebkitTextFillColor: 'transparent',
+                          fontWeight: 'bold'
+                        }}
+                      >
+                        benzersiz
+                      </span>
+                    </Link>{' '}
+                    video oluşturun ve sosyal medyadan para kazanmaya başlayın. Saniyeler süren birkaç basit ayar yapın, çalıştırın ve gerisini otomasyona bırakın.
+                  </p>
                 <div className="flex flex-col items-center justify-center space-y-4">
                   <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
                     <button
