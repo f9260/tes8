@@ -17,7 +17,7 @@ const Hero = () => {
                   VE3.Plus - Sınırsız Video Düzenleme Otomasyonu
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda benzersiz video oluşturun ve sosyal medyada para kazanmaya başlayın. 
+                  Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda benzersiz video oluşturun ve sosyal medyadan para kazanmaya başlayın. 
                   Saniyeler süren birkaç basit ayar yapın, çalıştırın ve gerisini otomasyona bırakın.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4">
