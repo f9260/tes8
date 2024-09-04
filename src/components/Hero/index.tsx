@@ -17,7 +17,7 @@ const Hero = () => {
                   VE3.Plus - Sınırsız Video Düzenleme Otomasyonu
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda <span style={{ color: '#00FFFF' }}>benzersiz</span> video oluşturun ve sosyal medyadan para kazanmaya başlayın. 
+                  Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda <Link href="https://forum.ve3.plus/d/99-benzersiz-icerik-nedir-ne-onemi-var" target="_blank"><span style={{ color: 'cyan' }}>benzersiz</span></Link> video oluşturun ve sosyal medyadan para kazanmaya başlayın. 
                   Saniyeler süren birkaç basit ayar yapın, çalıştırın ve gerisini otomasyona bırakın.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4">
