@@ -19,28 +19,30 @@
                     
                     Saniyeler süren birkaç basit ayar yapıp çalıştırın, gerisini ona bırakın.
                   </p>
-                  <div className="flex items-center justify-center">
-                    <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
-                      <Link
-                        href="https://rehber.ve3.plus"
-                        target="_blank"
-                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
-                      >
-                        Rehber
-                      </Link>
+                  <div className="flex flex-col items-center justify-center space-y-4">
+                    <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
                       <Link
                         href="https://shopier.com/23747500"
                         target="_blank"
-                        className="rounded-sm bg-[#00b22d] px-5 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500"
+                        className="flex-1 rounded-sm bg-[#00b22d] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500 text-center"
                       >
                         Satın Al
                       </Link>
+                    </div>
+                    <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
                       <Link
-                        href="https://forum.ve3.plus/d/5-demo-talebi"
+                        href="https://forum.ve3.plus/?language=tr"
                         target="_blank"
-                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
+                        className="flex-1 rounded-sm bg-gradient-to-r from-[#6A0D91] to-[#1E90FF] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#5B0A7A] hover:to-[#4682B4] dark:text-white dark:hover:from-[#5B0A7A] dark:hover:to-[#4682B4] text-center"
                       >
-                        Demo
+                        Topluluk
+                      </Link>
+                      <Link
+                        href="https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21116&authkey=%21AL%2DBR3IUIKoTnlQ"
+                        target="_blank"
+                        className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center"
+                      >
+                        İndir  ⤓ 
                       </Link>
                     </div>
                   </div>
