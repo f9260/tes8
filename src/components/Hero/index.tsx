@@ -18,10 +18,10 @@ const Hero = () => {
                 </h1>
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                     Video düzenleme bilgisine ihtiyaç duymadan sınırsız sayıda{' '}
-                    <Link href="https://forum.ve3.plus/d/99-benzersiz-icerik-nedir-ne-onemi-var" target="_blank">
+                    <Link href="https://forum.ve3.plus/d/99-benzersiz-icerik-nedir-neden-onemlidir" target="_blank">
                       <span
                         style={{
-                          background: 'linear-gradient(45deg, red, orange, yellow, blue)',
+                          background: 'linear-gradient(45deg, red, orange, yellow, cyan)',
                           WebkitBackgroundClip: 'text',
                           WebkitTextFillColor: 'transparent',
                           fontWeight: 'bold'
