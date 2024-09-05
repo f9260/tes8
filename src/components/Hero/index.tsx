@@ -30,7 +30,7 @@ const Hero = () => {
                         benzersiz
                       </span>
                     </Link>{' '}
-                    video oluşturun ve sosyal medyadan para kazanmaya başlayın. Saniyeler süren birkaç basit ayar yapın, çalıştırın ve gerisini otomasyona bırakın.
+                    video oluşturun ve sosyal medyadan para kazanmaya başlayın. Saniyeler süren birkaç basit ayar yapın ve çalıştırın, gerisini otomasyona bırakın.
                   </p>
                 <div className="flex flex-col items-center justify-center space-y-4">
                   <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
