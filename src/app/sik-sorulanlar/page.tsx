@@ -75,22 +75,7 @@ Alt modlar kendi içinde kararlı çalışır ancak ortak özelliklerle uyumlu �
                     Tek bilgisayarda çok sayıda uygulama çalıştırabilir miyim?
                     </li>
                     Hayır. Aynı anda birden fazla .exe çalıştırılamaz.
-                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
-                    Ürünün gerçek fiyatı nedir?
-                    </li>
-                    300 dolar + platform komisyonudur. 300 doların altındaki fiyatlar geçici bir süre içindir.
-                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
-                      Eğitim videolarının oluşturulduğu bilgisayarın sistem özellikleri nelerdir?
-                    </li>
 
-
-                    Eğitimler <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span> ile oluşturulmuştur. 
-
-                    <span style={{ color: 'red' }}><b>İşlemci:</b></span> <span style={{ color: 'cyan' }}><b>Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz</b></span>, 
-                    <span style={{ color: 'red' }}><b> Ram:</b></span> <span style={{ color: 'cyan' }}><b>16 GB</b></span>,
-                    <span style={{ color: 'red' }}><b> GPU:</b></span><span style={{ color: 'cyan' }}><b> NVIDIA GeForce 1060 with Max-Q Design / Intel UHD Graphics 630</b></span> ve <span style={{ color: 'cyan' }}><b>256 GB</b></span> <span style={{ color: 'red' }}><b>SSD.</b></span> 
-                   
-                                       
                   </ul>
                   
                      
