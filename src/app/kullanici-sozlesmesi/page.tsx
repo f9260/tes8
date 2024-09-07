@@ -55,11 +55,7 @@ const BlogDetailsPage = () => {
                       Her yazılım gibi VE3.Plus da teknik sorunlarla karşılaşabilir. VE3.Plus'ın kendi altyapısından kaynaklanmayan durumlarda çözüm sağlanamıyorsa ilgili özellikler sistemden kaldırılabilir.
 
                     </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      VE3.Plus'ın fiyatı <u>geçici olarak</u> <span style={{ color: 'LightSkyBlue' }}>100 dolar + platform komisyonları</span>dır. 
-                      
-                      Sonrasında aylık <span style={{ color: 'MediumSpringGreen' }}>300 dolar + platform komisyonları</span> olacak ve <u>bu fiyat değişmeyecektir</u>.
-                    </li>
+
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                       Destek bildirimlerine yanıt süremiz 3 iş günüdür. Bu süre zarfında yaşadığınız sorunlara dair dönüşler yapılır ve çözümleri adına çalışmalar başlatılır.
 
