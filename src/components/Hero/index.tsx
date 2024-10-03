@@ -49,7 +49,7 @@ const Hero = () => {
                       Topluluk
                     </button>
                     <button
-                      onClick={() => window.location.href = 'https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21116&authkey=%21AL%2DBR3IUIKoTnlQ'}
+                      onClick={() => window.location.href = 'https://drive.usercontent.google.com/download?id=1yX_BUkj_II0LSRqEBnCbdg9Zo3Ml9M5k&export=download'}
                       className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center cursor-pointer"
                     >
                       İndir
