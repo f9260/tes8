@@ -49,7 +49,7 @@ const Hero = () => {
                       Topluluk
                     </button>
                     <button
-                      onClick={() => window.location.href = 'https://forum.ve3.plus/assets/files/VE3.Plus-Tr.zip'}
+                      onClick={() => window.location.href = 'https://forum.ve3.plus/assets/files/free/VE3.Plus-Tr.zip'}
                       className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center cursor-pointer"
                     >
                       İndir
