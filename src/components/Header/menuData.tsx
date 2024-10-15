@@ -33,8 +33,8 @@ const menuData: Menu[] = [
   },
   {
     id: 6,
-    title: "Demo",
-    path: "https://forum.ve3.plus/d/5-demo-talebi",
+    title: "Satın Al",
+    path: "https://shopier.com/23747500",
     newTab: true,
   },
   {
