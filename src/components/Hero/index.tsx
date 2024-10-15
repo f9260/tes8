@@ -35,10 +35,15 @@ const Hero = () => {
                 <div className="flex flex-col items-center justify-center space-y-4">
                   <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
                     <button
-                      onClick={() => window.open('https://shopier.com/23747500', '_blank')}
-                      className="flex-1 rounded-sm bg-[#00b22d] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500 text-center cursor-pointer"
+                      onClick={() => window.location.href = 'https://forum.ve3.plus/assets/files/free/VE3.Plus-Tr.zip'}
+                      className="flex items-center justify-center flex-1 rounded-sm bg-gradient-to-r from-[#006DAA] to-[#0091D6] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#005BA1] hover:to-[#0082C4] dark:text-white dark:hover:from-[#005BA1] dark:hover:to-[#0082C4] text-center cursor-pointer"
                     >
-                      Satın Al
+                      <img
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png"
+                        alt="Windows Logo"
+                        className="w-8 h-8 mr-3 brightness-110 contrast-125"
+                      />
+                      Ücretsiz İndir
                     </button>
                   </div>
                   <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
@@ -49,10 +54,9 @@ const Hero = () => {
                       Topluluk
                     </button>
                     <button
-                      onClick={() => window.location.href = 'https://forum.ve3.plus/assets/files/free/VE3.Plus-Tr.zip'}
-                      className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center cursor-pointer"
-                    >
-                      İndir
+                      onClick={() => window.open('https://rehber.ve3.plus', '_blank')}
+className="flex items-center justify-center flex-1 rounded-sm bg-gradient-to-r from-[#9B0000] to-[#6A0DAD] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#8B0000] hover:to-[#6A009E] dark:text-white text-center cursor-pointer">
+                     Rehber
                     </button>
                   </div>
                 </div>
