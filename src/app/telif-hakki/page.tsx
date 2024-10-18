@@ -29,9 +29,9 @@ const BlogDetailsPage = () => {
                     İçerik üreticisi/sahibi, telif hakkı sahibi veya bunların temsilcisiyseniz ve VE3.Plus yazılımının kamuya açık içeriklerinizi dönüştürmek için olası kullanımını devre dışı bırakmak istiyorsanız, lütfen aşağıdaki bilgileri içeren bir talebi info@ve3.plus adresine e-posta yoluyla gönderin:
                   </p>
                   <ul className="mb-4">
-                    <li>Engellememizi istediğiniz içerik(ler)in URL(ler)i ve açıklama(lar)ı.</li>
-                    <li>İçerik(ler) için işlem yapma haklarına sahip olduğunuzu gösteren elektronik veya fiziksel bir kanıt formu.</li>
-                    <li>Telefon numarası ve geçerli bir e-posta adresi gibi sizinle iletişim kurmama izin verecek makul ölçüde yeterli iletişim bilgileri.</li>
+                    <li>- Engellememizi istediğiniz içerik(ler)in URL(ler)i ve açıklama(lar)ı.</li>
+                    <li>- İçerik(ler) için işlem yapma haklarına sahip olduğunuzu gösteren elektronik veya fiziksel bir kanıt formu.</li>
+                    <li>- Telefon numarası ve geçerli bir e-posta adresi gibi sizinle iletişim kurmama izin verecek makul ölçüde yeterli iletişim bilgileri.</li>
                   </ul>
                   <p className="mb-4">
                     Bildiriminizin ardından ilgili içerik(ler) 48 saat içerisinde sistemimizde kara listeye alınacaktır(Özel durumlarda süre uzayabilir).
