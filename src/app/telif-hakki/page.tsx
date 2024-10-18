@@ -64,7 +64,7 @@ const BlogDetailsPage = () => {
                     <strong>İletişim Bilgileri:</strong>
                   </p>
                   <p className="mb-4">
-                    Telif hakkı konuları veya URL engelleme talepleri için info@ve3.plus adresinden bizimle iletişimime geçebilirsiniz.
+                    Telif hakkı konuları veya URL engelleme talepleri için info@ve3.plus adresinden bizimle iletişime geçebilirsiniz.
                   </p>
                   <p className="mb-4">
                     <strong>Son Hatırlatma:</strong>
