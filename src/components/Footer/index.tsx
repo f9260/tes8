@@ -177,7 +177,12 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li>
-                    
+                    <Link
+                      href="/telif-hakki"
+                      className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
+                    >
+                      Telif Hakkı
+                    </Link>
                   </li>
                 </ul>
               </div>
