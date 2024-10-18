@@ -23,7 +23,7 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <p className="mb-4">
-                    VE3.Plus başkalarının fikri mülkiyet haklarına saygı duyar ve sizden de aynısını yapmanızı talep eder. VE3.Plus, yazılımında fikri mülkiyet haklarının ihlal edilmesine izin vermez ve bildirimde bulunulduğunda ticari içeriğin (halka açık bir web adresi / URL aracılığıyla sunulan) yazılım tarafından dönüştürülmesini ve indirilmesini derhal askıya alır.
+                    VE3.Plus başkalarının fikri mülkiyet haklarına saygı duyar ve sizden de bunu talep eder. VE3.Plus, yazılımında fikri mülkiyet haklarının ihlal edilmesine izin vermez ve bildirimde bulunulduğunda ticari içeriğin (halka açık bir web adresi / URL) yazılım tarafından dönüştürülmesini ve indirilmesini derhal askıya alır.
                   </p>
                   <p className="mb-4">
                     İçerik üreticisi/sahibi, telif hakkı sahibi veya bunların temsilcisiyseniz ve VE3.Plus yazılımının kamuya açık içeriklerinizi dönüştürmek için olası kullanımını devre dışı bırakmak istiyorsanız, lütfen aşağıdaki bilgileri içeren bir talebi info@ve3.plus adresine e-posta yoluyla gönderin:
