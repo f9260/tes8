@@ -1,9 +1,8 @@
-import Link from 'next/link'
-
+import Link from 'next/link';
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Copyright | VE3.Plus",
+  title: "Telif Hakkı | VE3.Plus",
   description: "",
   // other metadata
 };
@@ -17,59 +16,68 @@ const BlogDetailsPage = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
-                  Copyright
+                  Telif Hakkı
                 </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
-                  <div className="flex flex-wrap items-center">
-                  
-                  
-                  </div>
-                 
+                  <div className="flex flex-wrap items-center"></div>
                 </div>
                 <div>
-                  
-					VE3.Plus respects the intellectual property rights of others and requests you to do the same. VE3.Plus does not permit infringement of intellectual property rights on its software and will promptly suspend commercial content (served via a publicly available web address / URL) from being able to be converted and downloaded by its software when kindly notified.
-
-					If you’re a content creator/owner, copyright owner, or an agent thereof and would like to disable the possible use of VE3.Plus's software to convert your publicly available content(s), please kindly send me a request via email at copyright@ve3.plus with the following information:
-
-					The URL(s) and description(s) of the content(s) you want us to block.
-					A form of electronic or physical evidence showing that you have the rights to act for the content(s).
-					Contact information that is reasonably sufficient to permit me to contact you, such as telephone number, and a valid email address.
-					The relevant content(s) will be blacklisted in our system within 48 hours.
-
-					General Notice:
-
-					VE3.Plus respects the intellectual property rights of all content creators, whether their work is hosted on YouTube or any other service. We strongly encourage our users to respect these rights as well.
-
-					Content Ownership and Copyright Compliance:
-
-					All videos, music, and any other content downloaded via VE3.Plus remain the property of their respective copyright owners. Users of this service agree to bear sole responsibility for any copyright infringement issues that may arise from the improper use or distribution of copyrighted content.
-
-
-					Liability:
-
-					Users are solely responsible for ensuring the legality of downloading and using any content through the service.
-
-					Copyright Infriction and Content Removal:
-
-					Copyright holders who believe their content has been uploaded to YouTube and downloaded through VE3.Plus in violation of their rights are encouraged to contact us. We are committed to working with copyright holders to address any concerns, which may include blocking content on our service upon request.
-
-					Contact Information:
-
-					For copyright inquiries or content removal requests, please contact us at copyright@ve3.plus.
-
-					Final Reminder:
-
-					It is important to understand the legal implications of downloading and using copyrighted content. We urge our users to exercise caution and ensure they have all necessary rights or permissions when using any downloaded material.
-									  
-
-                 
+                  <p className="mb-4">
+                    VE3.Plus başkalarının fikri mülkiyet haklarına saygı duyar ve sizden de aynısını yapmanızı talep eder. VE3.Plus, yazılımında fikri mülkiyet haklarının ihlal edilmesine izin vermez ve bildirimde bulunulduğunda ticari içeriğin (halka açık bir web adresi / URL aracılığıyla sunulan) yazılım tarafından dönüştürülmesini ve indirilmesini derhal askıya alır.
+                  </p>
+                  <p className="mb-4">
+                    İçerik üreticisi/sahibi, telif hakkı sahibi veya bunların temsilcisiyseniz ve VE3.Plus yazılımının kamuya açık içeriklerinizi dönüştürmek için olası kullanımını devre dışı bırakmak istiyorsanız, lütfen aşağıdaki bilgileri içeren bir talebi info@ve3.plus adresine e-posta yoluyla gönderin:
+                  </p>
+                  <ul className="mb-4">
+                    <li>Engellememizi istediğiniz içerik(ler)in URL(ler)i ve açıklama(lar)ı.</li>
+                    <li>İçerik(ler) için işlem yapma haklarına sahip olduğunuzu gösteren elektronik veya fiziksel bir kanıt formu.</li>
+                    <li>Telefon numarası ve geçerli bir e-posta adresi gibi sizinle iletişim kurmama izin verecek makul ölçüde yeterli iletişim bilgileri.</li>
+                  </ul>
+                  <p className="mb-4">
+                    Bildiriminizin ardından ilgili içerik(ler) 48 saat içerisinde sistemimizde kara listeye alınacaktır(Özel durumlarda süre uzayabilir).
+                  </p>
+                  <p className="mb-4">
+                    <strong>Genel Duyuru:</strong>
+                  </p>
+                  <p className="mb-4">
+                    VE3.Plus, çalışmaları ister YouTube'da ister başka bir hizmette barındırılsın, tüm içerik oluşturucuların fikri mülkiyet haklarına saygı duyar. Kullanıcılarımızı da bu haklara saygı göstermeye davet ediyoruz.
+                  </p>
+                  <p className="mb-4">
+                    <strong>İçerik Sahipliği ve Telif Hakkı Uyumluluğu:</strong>
+                  </p>
+                  <p className="mb-4">
+                    VE3.Plus aracılığıyla indirilen tüm videolar, müzik ve diğer içerikler ilgili telif hakkı sahiplerinin mülkiyetindedir. Bu hizmetin kullanıcıları, telif hakkıyla korunan içeriğin uygunsuz kullanımı veya dağıtımından kaynaklanabilecek telif hakkı ihlali sorunları için tek sorumluluğu üstlenmeyi kabul eder.
+                  </p>
+                  <p className="mb-4">
+                    <strong>Sorumluluk:</strong>
+                  </p>
+                  <p className="mb-4">
+                    Kullanıcılar, hizmet aracılığıyla herhangi bir içeriği indirmenin ve kullanmanın yasallığını sağlamaktan tek başına sorumludur.
+                  </p>
+                  <p className="mb-4">
+                    <strong>Telif Hakkı İhlali ve İçerik Kaldırma:</strong>
+                  </p>
+                  <p className="mb-4">
+                    İçeriklerinin VE3.Plus üzerinden haklarını ihlal edecek şekilde kullanıldığını ve farklı platformlara yüklendiğini düşünen telif hakkı sahiplerinin bizimle iletişime geçmeleri tavsiye edilir. Talep üzerine hizmetimizdeki içeriğin engellenmesini de içerebilecek her türlü endişeyi gidermek için telif hakkı sahipleriyle birlikte çalışmaya kararlıyız.
+                  </p>
+                  <p className="mb-4">
+                    <strong>İletişim Bilgileri:</strong>
+                  </p>
+                  <p className="mb-4">
+                    Telif hakkı konuları veya URL engelleme talepleri için info@ve3.plus adresinden bizimle iletişimime geçebilirsiniz.
+                  </p>
+                  <p className="mb-4">
+                    <strong>Son Hatırlatma:</strong>
+                  </p>
+                  <p>
+                    Telif hakkıyla korunan içeriği indirmenin ve kullanmanın yasal sonuçlarını anlamak önemlidir. Kullanıcılarımızı dikkatli olmaya ve indirilen herhangi bir materyali kullanırken gerekli tüm haklara veya izinlere sahip olduklarından emin olmaya çağırıyoruz.
+                  </p>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
+        </div> {/* Eksik div kapanışı buraya eklendi */}
+      </section> {/* Eksik section kapanışı buraya eklendi */}
     </>
   );
 };
